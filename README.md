@@ -1,5 +1,5 @@
 # sri_yantra
-how to construct the sri yantra with an 60° degree Angel in the middle triangel
+Tutorial on how to construct and draw the sri yantra with an 60° degree Angel in the middle triangel
 
 there are a lot of different constructions out there, but most did not fit .
 here you can read about the optimal sri yantra http://www.sriyantraresearch.com/Optimal/optimal_sri_yantra.htm
@@ -11,6 +11,8 @@ You can download the images or if you have installed " geogebra " the *.ggb file
 Geogebra download :  https://www.geogebra.org/download?lang=de
 
 German:
+
+Dies ist ein Tutoial für das exakte Sri Yantra (goldenes mittleres Dreieck 60° Winkel) . Lernen sie das Konstruieren oder Zeichnen in einer Bild für Bild Anleitung. Alternativ dazu aber auch die Geogebra Datei.
 
 Nachdem ich mich im Jahre 2016 dem Sri Yantra zugewendet hatte entdeckte ich doch so einige Konstruktionen, welche aber zum größten Teil kein wirklich gutes Ergebnis, wenn nicht sogar völlig falsche Darstellungen ergaben.
 
