@@ -12,7 +12,7 @@ Geogebra download :  https://www.geogebra.org/download?lang=de
 
 German:
 
-Dies ist ein Tutoial für das exakte Sri Yantra (goldenes mittleres Dreieck 60° Winkel) . Lernen sie das Konstruieren oder Zeichnen in einer Bild für Bild Anleitung. Alternativ dazu aber auch die Geogebra Datei.
+Dies ist ein Tutoial für das exakte Sri Yantra (goldenes mittleres Dreieck 60° Winkel) . Lernen sie das Konstruieren oder Zeichnen in einer Bild für Bild Anleitung. Alternativ dazu aber auch die Geogebra Datei (*.ggb).
 
 Nachdem ich mich im Jahre 2016 dem Sri Yantra zugewendet hatte entdeckte ich doch so einige Konstruktionen, welche aber zum größten Teil kein wirklich gutes Ergebnis, wenn nicht sogar völlig falsche Darstellungen ergaben.
 
